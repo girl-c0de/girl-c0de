@@ -1,4 +1,4 @@
-#  *👋 Olá! Me chamo Aline Santos*
+#  *👋 Olá! Me chamo Aline Nascimento*
 
 <img align="right" src="https://avatars.githubusercontent.com/u/62856490?s=400&u=2aaeedb828b46fc98c8a7429fd737fdb923fff30&v=4" width="250"/> 
 
