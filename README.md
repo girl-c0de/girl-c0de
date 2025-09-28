@@ -10,7 +10,6 @@
 
 
 ### Conecte-se comigo:
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-afeeee?style=for-the-badge)](https://www.dio.me/users/alinen811)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:alinen811@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aline-nascimento-b21b04191/)
 
@@ -40,6 +39,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=girl-c0de&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=girl-c0de&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-
-![Snake animation](https://github.com/girl-c0de/girl-c0de/blob/output/github-contribution-grid-snake.svg)
